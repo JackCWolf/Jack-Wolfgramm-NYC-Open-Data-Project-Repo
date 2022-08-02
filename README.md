@@ -3,8 +3,7 @@ Jack Wolfgramm NYC Open Data Project
 
 Thanks for checking out my first Springboard project! The idea of the project was to predict business success by analyzing the success of nearby businesses. In practice that means that I added features to a regression model (XGBoost) by using k-means. Despite the fancy file structure, the meat of the project can be found in the 'notebooks' section. You can also check out the final report in the 'report' section. I would be super happy to hear any feedback if you have the time!
 
-The dataset can be found here: https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/data
-
+The dataset can be found here: https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh
 
 Project Organization
 ------------
